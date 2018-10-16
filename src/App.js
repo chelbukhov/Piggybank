@@ -122,7 +122,7 @@ class App extends Component {
                                         </p>
             </form>
             <p> <span class="title">Ваш вклад в токенах:</span> <span class="digit">{this.state.balanceDepo}</span> <span class="ETH">PiggyToken</span>.</p>
-            <p> <span class="title">Ваш вклад в эфирах:</span> <span class="digit">{this.state.balanceDepoETH}</span> <span class="title">Ether</span>.</p>
+            <p> <span class="title">Ваш вклад в эфирах:</span> <span class="digit">{this.state.balanceDepoETH}</span> <span class="ETH">Ether</span>.</p>
             <p> <span class="text">Эту сумму Вы можете забрать в любое время дня и ночи <span class="ETH">БЕЗ комиссий.</span></span></p>
             </div>
           </div>  
